@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+body {
+    font-family: 'Releway', 'Roboto',  sans-serif;
+
+}
+
+
+  /* activa los botones al pasar el cursor encima de ellos 
+  voy en c4, manñana continuo desde ahi  */ 
+.buttons .button {
+    background: #2196F3;
+    color: teal;
+}
+
+.buttons .button:hover,
+.buttons .button:focus {
+    color: black;
+}
+
+.buttons .button:active {
+    color: white;
+}
