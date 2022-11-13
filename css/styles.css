@@ -2,9 +2,9 @@
 
 
 *{
-    /* margin: 0%;
-    padding: 0%; */
-   
+    margin: 0%;
+    padding: 0%; 
+    box-sizing: border-box;
     list-style: none;
      
 }
@@ -12,6 +12,8 @@
 body{
     font-family:  'Roboto', 'Releway', sans-serif;
     background: #FFFFFF;
+    line-height: 1.5;
+   /* position: relative; */
     
 }
 
